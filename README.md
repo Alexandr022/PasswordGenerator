@@ -18,7 +18,7 @@
 
 Клонируйте этот репозиторий на свой локальный компьютер:
 
-    git clone https://github.com/yourusername/password-generator-spring.git
+    git clone https://github.com/Alexandr022/PasswordGenerator
 
 Перейдите в каталог проекта:
 

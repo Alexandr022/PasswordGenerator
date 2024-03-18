@@ -12,18 +12,12 @@
 
     Клонируйте этот репозиторий на свой локальный компьютер:
 
-    bash
-
-git clone https://github.com/yourusername/password-generator-spring.git
+    git clone https://github.com/yourusername/password-generator-spring.git
 
 Перейдите в каталог проекта:
 
-bash
-
-cd password-generator-spring
+    cd password-generator-spring
 
 Соберите проект с помощью Maven:
 
-bash
-
-mvn clean install
+    mvn clean install
